@@ -12,10 +12,6 @@ restart your web server
 
 And that's it.
 
-= Tests
-
-For the tests to succeed, you'll have to run `rake test:scm:setup:all` before running the tests themselves.
-
 = License
 
 This plugin is licensed under the MIT license.
